@@ -1,3 +1,30 @@
+# Approach for the Challenge
+
+Created 3 components: Dashboard, Filter, Popup.
+
+Dashboard: It is the main Page that is seen on load. Sorting is implemented in this component
+
+Filter: Search Functionality is added in this component. Search is done on the basis of button click.
+
+Popup: A Modal is created  with a basic Login form that accepts input and shows the success message.
+
+
+## Layout
+
+For Designing, Reactstrap is being used with bootstrap. To give a user proper layout
+
+### React Functional Components
+
+Components are build using hooks. It reduces complexity of code and removes unnecessary methods.
+
+### Deployment
+
+Code is deployed on heroku.
+
+Link: https://fed-code-challenge-courses.herokuapp.com/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +95,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
